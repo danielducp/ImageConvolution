@@ -1,0 +1,4 @@
+F:\University\AI Programming\Week 5\ImageConvolution\obj\Debug\netcoreapp3.1\ImageConvolution.csprojAssemblyReference.cache
+F:\University\AI Programming\Week 5\ImageConvolution\obj\Debug\netcoreapp3.1\ImageConvolution.AssemblyInfoInputs.cache
+F:\University\AI Programming\Week 5\ImageConvolution\obj\Debug\netcoreapp3.1\ImageConvolution.AssemblyInfo.cs
+F:\University\AI Programming\Week 5\ImageConvolution\obj\Debug\netcoreapp3.1\ImageConvolution.csproj.CoreCompileInputs.cache
